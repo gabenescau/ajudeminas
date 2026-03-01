@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/proxy/zuckpay/:match*",
+      "destination": "https://zuckpay.com.br/conta/v3/pix/:match*"
+    }
+  ]
+}
