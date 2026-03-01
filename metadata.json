@@ -1,0 +1,5 @@
+{
+  "name": "Vakinha - SOS Minas Gerais",
+  "description": "A donation platform clone for SOS Minas Gerais relief efforts, featuring real-time donation tracking, PIX payment generation, and campaign details.",
+  "requestFramePermissions": []
+}
